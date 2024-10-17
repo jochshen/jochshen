@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Joshua Chen and I'm a current student attending UC San Diego as a Computer Science Major. My coursework has provided me with a strong foundation in programming, data structures, algorithms, and software development. Through personal and group projects, I’ve been able to hone my technical skills by diving deep into programming and working with various libraries and frameworks. My passion lies in Software Development and learning how to create real-world applications.
+Hi, my name is Joshua Chen and I'm a current student attending UC San Diego as a Computer Science major. My coursework has provided me with a strong foundation in programming, data structures, algorithms, and software development. Through personal and group projects, I’ve been able to hone my technical skills by diving deep into programming and working with various libraries and frameworks. My passion lies in Software Development and learning how to create real-world applications.
 
 ## Contact:
 Feel free to reach out! You can contact me via:
